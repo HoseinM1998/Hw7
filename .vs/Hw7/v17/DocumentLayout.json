@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\typeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\istore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\istore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\factor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\shopingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|c:\\users\\hmosl\\onedrive\\desktop\\hw7\\hw7\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAE775C3-CCD6-4671-8557-B6A6D08FFF63}|Hw7\\Hw7.csproj|solutionrelative:hw7\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Hw7\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\OrderStatus.cs",
+              "RelativeToolTip": "Hw7\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:08:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\User.cs",
+              "RelativeDocumentMoniker": "Hw7\\User.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\User.cs",
+              "RelativeToolTip": "Hw7\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:01:20.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Product.cs",
+              "RelativeDocumentMoniker": "Hw7\\Product.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Product.cs",
+              "RelativeToolTip": "Hw7\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwBkAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:04:47.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Storage.cs",
+              "RelativeDocumentMoniker": "Hw7\\Storage.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Storage.cs",
+              "RelativeToolTip": "Hw7\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:05:12.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ShopingCart.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\ShopingCart.cs",
+              "RelativeDocumentMoniker": "Hw7\\ShopingCart.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\ShopingCart.cs",
+              "RelativeToolTip": "Hw7\\ShopingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T20:35:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Factor.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Factor.cs",
+              "RelativeDocumentMoniker": "Hw7\\Factor.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Factor.cs",
+              "RelativeToolTip": "Hw7\\Factor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:20:53.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStore.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\IStore.cs",
+              "RelativeDocumentMoniker": "Hw7\\IStore.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\IStore.cs",
+              "RelativeToolTip": "Hw7\\IStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:03:06.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\StoreService.cs",
+              "RelativeDocumentMoniker": "Hw7\\StoreService.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\StoreService.cs",
+              "RelativeToolTip": "Hw7\\StoreService.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAswMMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:02:47.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "Hw7\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\IAuthentication.cs",
+              "RelativeToolTip": "Hw7\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:01:35.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Authentication.cs",
+              "RelativeDocumentMoniker": "Hw7\\Authentication.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Authentication.cs",
+              "RelativeToolTip": "Hw7\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:01:57.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\TypeEnum.cs",
+              "RelativeDocumentMoniker": "Hw7\\TypeEnum.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\TypeEnum.cs",
+              "RelativeToolTip": "Hw7\\TypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:06:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Hw7\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\RoleEnum.cs",
+              "RelativeToolTip": "Hw7\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T08:04:08.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Program.cs",
+              "RelativeDocumentMoniker": "Hw7\\Program.cs",
+              "ToolTip": "C:\\Users\\hmosl\\OneDrive\\Desktop\\Hw7\\Hw7\\Program.cs",
+              "RelativeToolTip": "Hw7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:55:23.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
